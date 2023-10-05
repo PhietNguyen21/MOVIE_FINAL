@@ -1,0 +1,15 @@
+{
+    "header": {
+        "Home": "主页",
+        "Contact": "接触",
+        "News": "消息"
+    },
+    "body": {
+        "DangChieu": "电影正在上映",
+        "SapChieu": "电影即将上映"
+    },
+    "thongTinTk": "帐户信息",
+    "Dangxuat": "登出",
+    "Sign in": "登入",
+    "Sign up": "报名"
+}

@@ -1,0 +1,15 @@
+{
+    "header": {
+        "Home": "Home",
+        "Contact": "Contact",
+        "News": "News"
+    },
+    "body": {
+        "DangChieu": "Movie is showing",
+        "SapChieu": "Movie coming soon"
+    },
+    "thongTinTk": "Account information",
+    "Dangxuat": "Log out",
+    "Sign in": "Sign in",
+    "Sign up": "Sign up"
+}
